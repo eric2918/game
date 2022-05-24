@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bak/leafserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/bak/leafserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/leaf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/leaf_chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/leafserver" vcs="Git" />
+  </component>
+</project>
